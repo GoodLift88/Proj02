@@ -11,7 +11,7 @@ public class Ex4 {
         int counter=0;
         int hour;
         int min;
-        for( hour=1;hour<=24;hour++)
+        for( hour=1;hour<=23;hour++)
         {
             for( min=0;min<=59;min++)
             {
